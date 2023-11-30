@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f12207b3-91d4-43eb-91b1-dd03aa1f057d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/AcuerdoFondoBenefico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Clientes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Facturacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Funcion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Institucion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Obra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Personaje.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Reemplazo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/SecretariaCultura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Sexo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Teatro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Temporada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/TipoObra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/TipoPapel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/TipoTeatro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Tiquete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Version.java" afterDir="false" />
+    <list default="true" id="f12207b3-91d4-43eb-91b1-dd03aa1f057d" name="Changes" comment="** Inclusión clase a partir de diagrama de clases.&#10;** Creación de dos instancias de obra y dos instancias de temporada.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -81,6 +60,14 @@
       <option name="presentableId" value="Default" />
       <updated>1701240590724</updated>
     </task>
+    <task id="LOCAL-00001" summary="** Inclusión clase a partir de diagrama de clases.&#10;** Creación de dos instancias de obra y dos instancias de temporada.">
+      <created>1701281015831</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701281015831</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,5 +80,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="** Inclusión clase a partir de diagrama de clases.&#10;** Creación de dos instancias de obra y dos instancias de temporada." />
+    <option name="LAST_COMMIT_MESSAGE" value="** Inclusión clase a partir de diagrama de clases.&#10;** Creación de dos instancias de obra y dos instancias de temporada." />
   </component>
 </project>
